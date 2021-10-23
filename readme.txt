@@ -1,2 +1,2 @@
 Git is a distributed version control system.
-zhangweijie is alone.
+Git is free software distributed under the GPL.
