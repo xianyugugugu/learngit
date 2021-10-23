@@ -1,2 +1,2 @@
-Git is a version control system.
-zhangweijie is single dog.
+Git is a distributed version control system.
+zhangweijie is alone.
